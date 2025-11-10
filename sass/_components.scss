@@ -299,7 +299,7 @@
 // ***********************************************
 .section-about{
     background: linear-gradient(rgba(0,0,0, .7), rgba(0,0,0, .7)),
-    url(/Img/house3.jpeg);
+    url("../Img/house3.jpeg");
     background-size: cover;
     padding-bottom: 20px;
     padding-top: 30px;
@@ -673,7 +673,7 @@
 
 .section-how{
     background: linear-gradient(rgba(0,0,0, .7), rgba(0,0,0, .7)),
-    url(/Img/house2.jpeg);
+    url("../Img/house2.jpeg");
     background-size: cover; 
      padding-bottom: 20px;
     padding-top: 30px;
@@ -832,7 +832,7 @@
 
 .section-closing-cta{
     background: linear-gradient(rgba(0,0,0, .8), rgba(0,0,0, .8)),
-    url(/Img/grid2.jpeg);
+    url("../Img/grid2.jpeg");
     background-size: cover;
     background-attachment: fixed;
      padding-bottom: 50px;
